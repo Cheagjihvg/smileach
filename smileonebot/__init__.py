@@ -1,1 +1,1 @@
-from .bot import SmileOneBot
+from smileach import SmileOneBot
